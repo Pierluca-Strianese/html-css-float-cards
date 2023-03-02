@@ -18,7 +18,7 @@ h1 {
     margin-inline: auto;
     max-width: 867.6px;
     text-align: center;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 .container {
@@ -46,8 +46,8 @@ h1 {
 }
 
 .descrizione {
-    margin-top: 2em;
-    margin-bottom: 2em;
+    display: block;
+    margin-bottom: 0.3em;
 }
 
 .img {
